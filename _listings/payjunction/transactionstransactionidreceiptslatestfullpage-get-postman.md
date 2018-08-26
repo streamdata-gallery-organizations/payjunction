@@ -2196,16 +2196,4 @@
             },
             "description": "Get the most recent version of the full page (8.5x11) receipt HTML document"
           },
-          "response": [
-            {
-              "status": "OK",
-              "code": 200,
-              "name": "Response_200",
-              "id": "e3ee184c-69ba-47b1-85be-fad0ee0566e3"
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+  
