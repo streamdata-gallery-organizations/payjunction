@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - PayJunction",
+	"description": "This is a repository of payjunction APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/payjunction.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://payjunction.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "PayJunction",
+			"x-api-slug": "payjunction",
+			"description": "PayJunction is a Level 1 PCI Compliant Service Provider that services thousands of businesses in every state in the United States. Since 2000, PayJunction has rapidly become a leading developer and provider of cutting edge merchant technology. PayJunction has also formed strategic alliances with leading financial institutions and technology partners to deliver the most comprehensive services in the industry.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/payjunction-logo.png",
+			"humanURL": "http://payjunction.com/",
+			"baseURL": "https://example.com//",
+			"tags": "PayJunction",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/payjunction/master/_listings/payjunction/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "PayJunction",
+	"include": [
+		{
+			"name": "PayJunction",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/payjunction/master/_listings/payjunction/apis.yaml"
+		}
+	]
+}
